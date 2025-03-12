@@ -8,17 +8,6 @@
 - Ideal for network testing
 - Bypasses license activation
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Proxy_Server_GUI.git
-    ```
-2. Install the required dependencies:
-    ```bash
-    cd Proxy_Server_GUI
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 1. Start the application:
     ```bash
